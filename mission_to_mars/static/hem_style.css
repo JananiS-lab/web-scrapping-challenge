@@ -1,0 +1,14 @@
+.box2 {
+    justify-content: center;
+    border: 1px solid #DDD;
+    height: 1000px;
+    width: 1000px;
+    padding: 25px;
+    color: rgb(11, 12, 12);
+    background-color: rgba(192, 199, 192, 0.2);
+    border-radius: 4px 4px 4px 4px;
+    margin: 50px;
+}
+h1{
+    text-align: center;
+}
